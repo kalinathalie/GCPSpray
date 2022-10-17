@@ -16,7 +16,7 @@ pip3 install requests
 
 You will need a userlist file with target email-addresses one per line. 
 ```
-usage: MSOLSpray.py [-h] -u FILE -p PASSWORD [-o OUTFILE] [-f] [--url URL]
+usage: GCPSpray.py [-h] -u FILE -p PASSWORD [-o OUTFILE] [-f] [--url URL]
 
 optional arguments:
   -h, --help            show this help message and exit
